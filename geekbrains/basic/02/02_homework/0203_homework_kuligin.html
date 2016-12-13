@@ -1,0 +1,40 @@
+Угадай число (Мультиплеер)
+<meta charset='utf-8'>
+<script>
+//Дописать игру “Угадай число” (по желанию). Сделать игру с двумя игроками.
+
+	//Ввод переменных
+	var answer = parseInt(Math.random() * 100);
+	var userAnswer = null;
+	var userSwitch = 1
+	
+	//Начало цикла
+	while (true) {		
+
+		//Алгоритм игры
+		userAnswer = prompt("Игрок № " + userSwitch + ", ваш ход!\nВведите число от 0 до 100.\nДля выхода нажмите q.");
+		if (userAnswer == "q") {
+			break;
+		}
+		userAnswer = parseInt(userAnswer);
+		if (userAnswer > answer) {
+			alert("Игрок № " + userSwitch + "!\nВаш ответ слишком большой");
+		} else if (userAnswer < answer) {
+			alert("Игрок № " + userSwitch + "!\nВаш ответ слишком маленький");
+		} else if (userAnswer == answer) {
+			alert("Игрок № " + userSwitch + "!\nВы угадали и выиграли!");
+			break;
+		} else {
+			alert("Игрок № " + userSwitch + "! Внимательней! Необходимо вводить числа!");
+		}
+
+		//Смена игроков
+		if (userSwitch == 1) {
+			userSwitch = 2;
+		} else {
+			userSwitch = 1;
+		}
+	}
+	//Конец цикла
+
+</script>

@@ -11,8 +11,7 @@ int main()
 	printf("%d %p\n", *b, b);
 	//*b = 5;
 	
-	//scanf("%d,.....");
-	
+	scanf("%d",b);
 	
 	printf("%d %p\n", a, &a);
 	//a = 5;

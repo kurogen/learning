@@ -1,5 +1,3 @@
-//	http://mathus.ru/math/srednie.pdf
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
@@ -10,7 +8,7 @@ void average(float a, float b, float *c, float*d)
 	*d=sqrt(a*b);
 }
 
-int main()																		// здесь ошибка
+int main()
 {
 	float a, b, c, d;
 	

@@ -1,0 +1,22 @@
+//Печать чисел от 1 до 4 разными способами
+
+#include "stdafx.h"
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	cout << "1 2 3 4" << endl; //первый способ
+
+	cout << "1 " << "2 " << "3 " << "4 " << endl; // второй способ
+
+	cout << "1 "; //третий способ
+	cout << "2 ";
+	cout << "3 ";
+	cout << "4";
+	cout << endl;
+
+	system("PAUSE");
+    return 0;
+}

@@ -1,0 +1,25 @@
+﻿  projector_hacker_0.4b.cpp
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(32): error C2001: newline in constant
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(33): error C2146: syntax error: missing ';' before identifier '__'
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(34): error C2065: '__': undeclared identifier
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(34): error C2146: syntax error: missing ';' before identifier '__'
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(34): error C2146: syntax error: missing ';' before identifier '______'
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(34): error C2065: '______': undeclared identifier
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(34): error C2146: syntax error: missing ';' before identifier '_______'
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(34): error C2065: '_______': undeclared identifier
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(34): error C2146: syntax error: missing ';' before identifier '____'
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(34): error C2065: '____': undeclared identifier
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(34): error C2146: syntax error: missing ';' before identifier '_'
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(34): error C2065: '_': undeclared identifier
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(34): error C2059: syntax error: '|'
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(35): error C2017: illegal escape sequence
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(36): error C2017: illegal escape sequence
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(37): error C2017: illegal escape sequence
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(38): error C2017: illegal escape sequence
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(40): error C2017: illegal escape sequence
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(41): error C2017: illegal escape sequence
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(41): error C2059: syntax error: ')'
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(42): error C2017: illegal escape sequence
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(43): error C2017: illegal escape sequence
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(44): error C2017: illegal escape sequence
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(45): error C2001: newline in constant

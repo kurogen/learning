@@ -1,0 +1,11 @@
+﻿  projector_hacker_0.4b.cpp
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(18): error C2146: syntax error: missing ';' before identifier 'value_1'
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(18): error C2065: 'value_1': undeclared identifier
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(19): error C2146: syntax error: missing ';' before identifier 'value_2'
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(19): error C2065: 'value_2': undeclared identifier
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(52): error C2065: 'value_1': undeclared identifier
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(64): error C2065: 'value_2': undeclared identifier
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(66): error C2065: 'value_2': undeclared identifier
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(66): error C2050: switch expression not integral
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(110): error C2065: 'value_1': undeclared identifier
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(110): error C2050: switch expression not integral

@@ -1,0 +1,9 @@
+﻿  projector_hacker_0.4b.cpp
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(31): warning C4101: 'gain_scrn': unreferenced local variable
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(27): warning C4101: 'illum_sample': unreferenced local variable
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(21): warning C4101: 'h_size_px': unreferenced local variable
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(28): warning C4101: 'illum_scrn': unreferenced local variable
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(30): warning C4101: 'bright_proj': unreferenced local variable
+e:\cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\projector_hacker_0.4b\projector_hacker_0.4b.cpp(29): warning C4101: 'contrast_scrn': unreferenced local variable
+  projector_hacker_0.4b.vcxproj -> E:\Cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\Debug\projector_hacker_0.4b.exe
+  projector_hacker_0.4b.vcxproj -> E:\Cloud\mail_cloud\coding\github\learning\work\projector\projector_hacker_0.4b\Debug\projector_hacker_0.4b.pdb (Full PDB)

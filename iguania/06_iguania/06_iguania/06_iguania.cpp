@@ -12,7 +12,7 @@ using namespace std;
 
 int main()
 {
-	PlaySound(L"E:/Cloud/mail_cloud/coding/github/learning/iguania/06_iguania/Stunt.wav", NULL, SND_FILENAME | SND_ASYNC);
+	PlaySound(L"D:/Cloud/mail_cloud/coding/github/learning/iguania/06_iguania/06_iguania/Stunt.wav", NULL, SND_FILENAME | SND_ASYNC);
 	
 	setlocale(LC_ALL, "Russian");
 

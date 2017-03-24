@@ -25,6 +25,6 @@ int main()
 	printf("\n");
 	
 	free(m);
-	system("pause");
+
 	return 0;
 }

@@ -5,7 +5,6 @@
 void sort(float m[],int n))
 
 {
-
 	int i,swap;
 	float tmp;
 	do
